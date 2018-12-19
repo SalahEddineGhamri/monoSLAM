@@ -1,0 +1,20 @@
+// This a header for mono library
+// 
+#ifndef MONOLIB_HPP
+#define MONOLIB_HPP
+
+//dependecies
+#include <iostream>
+//#include <opencv2/opencv.hpp>
+//--------------------------------------------
+
+
+class humane{
+  int a = 44;
+public:
+  void hi();
+}
+
+
+
+#endif

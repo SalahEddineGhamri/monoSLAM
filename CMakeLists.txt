@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( monoSlam )
+find_package( OpenCV REQUIRED PATHS "C:/Users/Utilisateur/Opencv/opencv-3.4.3")
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( app src/main.cpp src/monoLib.cpp src/monoLib.hpp )
+target_link_libraries( app ${OpenCV_LIBS} )

@@ -1,0 +1,7 @@
+#include "monoLib.hpp"
+
+void humane::hi(){
+  
+  std::cout << " ok this is me " << this -> a << std::endl;
+  
+}

@@ -1,0 +1,11 @@
+// main for monoSlam project
+// Author Salah Eddine Ghamri
+#include "monoLib.hpp"
+
+int main(int argc, char** argv){
+  
+  humane a = humane();
+  a.hi();
+
+  return 0;
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Utilisateur\Documents\monoslam\build\CMakeFiles\8d20712e34a4aeb2ad0b2d83427e8100\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{ED5754FA-AD9A-3F75-9BD2-DD577B125E7E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
